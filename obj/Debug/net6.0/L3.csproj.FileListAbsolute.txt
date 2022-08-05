@@ -1,0 +1,15 @@
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\bin\Debug\net6.0\L3.exe
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\bin\Debug\net6.0\L3.deps.json
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\bin\Debug\net6.0\L3.runtimeconfig.json
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\bin\Debug\net6.0\L3.dll
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\bin\Debug\net6.0\L3.pdb
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\L3.csproj.AssemblyReference.cache
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\L3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\L3.AssemblyInfoInputs.cache
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\L3.AssemblyInfo.cs
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\L3.csproj.CoreCompileInputs.cache
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\L3.dll
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\refint\L3.dll
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\L3.pdb
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\L3.genruntimeconfig.cache
+C:\Users\Atlan\Desktop\Progr languages Lections\L3\obj\Debug\net6.0\ref\L3.dll
